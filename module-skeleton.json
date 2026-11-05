@@ -1,0 +1,25 @@
+{
+  "repository": "module-integrations-nextjs",
+  "capabilityKey": "liberusoftware/integrations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-integrations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/integrations.md",
+  "presentationPlan": "projects/boilerplate/nextjs/integrations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
